@@ -9,6 +9,11 @@ Soy un apasionado desarrollador Full Stack con especialización en JavaScript y 
 - **Base de Datos:** PostgreSQL
 - **Otros:** Git, RESTful APIs, Desarrollo de E-commerce, Gestión de Proyectos
 
+- ## Certificaciones
+- **Certificado de Inglés EF SET:**
+  - Nivel: C2 Proficient
+  - [Ver Certificado](https://cert.efset.org/85yGcq)
+
 ## Proyectos Destacados
 ### [ElectroEmporium]
 Un e-commerce completo desarrollado en grupo como proyecto final del curso de Full Stack Developer.
